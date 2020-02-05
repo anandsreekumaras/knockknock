@@ -14,3 +14,4 @@ for line in $filelines ; do
 		fi
 		
 done
+notify-send Knock Knock finished $filename
